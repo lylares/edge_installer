@@ -65,11 +65,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfafb93b-426f-4c79-9654-96c1b6b293cb?P1=1747934682&P2=404&P3=2&P4=J31sAoo9d7QXKN3%2fBnPFJOAw4Wq%2b4K5VYFwJspntoJXjxlGet4XPqxyqii67LFvS0ip7Kt74xLIbWz4UQanlGQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfafb93b-426f-4c79-9654-96c1b6b293cb?P1=1747934682&P2=404&P3=2&P4=J31sAoo9d7QXKN3%2fBnPFJOAw4Wq%2b4K5VYFwJspntoJXjxlGet4XPqxyqii67LFvS0ip7Kt74xLIbWz4UQanlGQ%3d%3d)  
 
 ## beta x86
-**最新版本**：137.0.3296.16  
-**文件大小**：153.98 MB  
-**文件名**：MicrosoftEdge_X86_137.0.3296.16.exe  
-**校验值（Sha256）**：cca36197b301c946e53734d59bdc84072ee90d7fcdc8bf4abeb04e6750fe8c06  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30a115d2-092a-4082-9507-447511e3045d?P1=1747679630&P2=404&P3=2&P4=BfVzltKLDIQLuAxRgVcBfV0VjBletQz3LOt2Ief6oQrNb8AoB4EFLCpxuVIbdEhBYbSgcZZY6HBqiazeJ7iOPg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30a115d2-092a-4082-9507-447511e3045d?P1=1747679630&P2=404&P3=2&P4=BfVzltKLDIQLuAxRgVcBfV0VjBletQz3LOt2Ief6oQrNb8AoB4EFLCpxuVIbdEhBYbSgcZZY6HBqiazeJ7iOPg%3d%3d)  
+**最新版本**：137.0.3296.30  
+**文件大小**：154.05 MB  
+**文件名**：MicrosoftEdge_X86_137.0.3296.30.exe  
+**校验值（Sha256）**：eda082ea7809bf4256ebdd01dfe3e868d8ae1fa4ff916bbab758818b18aca1f7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54c83d80-cbb1-4278-a231-b87653752c1c?P1=1748291191&P2=404&P3=2&P4=U%2bCtUVSkjBk1tUz6uk4axs9Cy9DbLekh1FL7RuQMKfNnpZPdCkKszxit1aPuQLWiIavwLboYYA%2fgUtgMEQnpoQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54c83d80-cbb1-4278-a231-b87653752c1c?P1=1748291191&P2=404&P3=2&P4=U%2bCtUVSkjBk1tUz6uk4axs9Cy9DbLekh1FL7RuQMKfNnpZPdCkKszxit1aPuQLWiIavwLboYYA%2fgUtgMEQnpoQ%3d%3d)  
 
 ## beta x64
 **最新版本**：137.0.3296.30  
