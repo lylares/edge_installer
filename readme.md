@@ -107,18 +107,18 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/40e88e22-8e38-451b-ac28-9bf1e32211df?P1=1773876757&P2=404&P3=2&P4=hyJ5mR07ZUYaVUoTgPOcamvO5%2fH%2buBonjmwWUACGfp3UOJyBrTRndDsM7FE0vZaxsBsPnAIBJcA6hSwykXgJcg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/40e88e22-8e38-451b-ac28-9bf1e32211df?P1=1773876757&P2=404&P3=2&P4=hyJ5mR07ZUYaVUoTgPOcamvO5%2fH%2buBonjmwWUACGfp3UOJyBrTRndDsM7FE0vZaxsBsPnAIBJcA6hSwykXgJcg%3d%3d)  
 
 ## canary x86
-**最新版本**：148.0.3920.0  
-**文件大小**：160.61 MB  
-**文件名**：MicrosoftEdge_X86_148.0.3920.0.exe  
-**校验值（Sha256）**：3d2f4ac49c117f65c392e5b20108312d24c62056d7e42de9e3552712c3842c9b  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29861f6c-8356-4e54-8a12-6ac04cb5bd75?P1=1774308975&P2=404&P3=2&P4=kzGzpq2N8BSB5LXIXfgdl46d2FCXCxt92840yJvv8RhjWifZ8AqFTxHZshYtTRog9IR89%2bU9I2XU42v%2fwIDm%2fQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29861f6c-8356-4e54-8a12-6ac04cb5bd75?P1=1774308975&P2=404&P3=2&P4=kzGzpq2N8BSB5LXIXfgdl46d2FCXCxt92840yJvv8RhjWifZ8AqFTxHZshYtTRog9IR89%2bU9I2XU42v%2fwIDm%2fQ%3d%3d)  
+**最新版本**：148.0.3921.0  
+**文件大小**：160.62 MB  
+**文件名**：MicrosoftEdge_X86_148.0.3921.0.exe  
+**校验值（Sha256）**：b0fdac7e2426d9eb820c61ce1b272e9e024c76f01afa88acd6330f23d68086c6  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/32910ea5-24ab-4235-ad61-dc30e860aad6?P1=1774332346&P2=404&P3=2&P4=ExXR%2bmSnf9GE%2fQX5lMOYtzYo%2blH9WExDo12R6r891zwXP41LaUV9EKGuxVXpLCIfbGWzQnCsHSqDMR8FI6reGA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/32910ea5-24ab-4235-ad61-dc30e860aad6?P1=1774332346&P2=404&P3=2&P4=ExXR%2bmSnf9GE%2fQX5lMOYtzYo%2blH9WExDo12R6r891zwXP41LaUV9EKGuxVXpLCIfbGWzQnCsHSqDMR8FI6reGA%3d%3d)  
 
 ## canary x64
-**最新版本**：148.0.3920.0  
-**文件大小**：182.32 MB  
-**文件名**：MicrosoftEdge_X64_148.0.3920.0.exe  
-**校验值（Sha256）**：43e4616f0095ef3091dc36c535e79802af42fe1fdd18d12acad3fdb374f81c9a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3805e914-18a7-4b17-ad56-2b2ef0fd9c93?P1=1774305638&P2=404&P3=2&P4=YYZEfbuopK6%2bCgX%2fhFcPs5sVClS%2bYz2HMxuEgrvL7P%2b9pDAX7K1EYktrRAd3THt4NRQjax4GPlmP5ZuGszIdHg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3805e914-18a7-4b17-ad56-2b2ef0fd9c93?P1=1774305638&P2=404&P3=2&P4=YYZEfbuopK6%2bCgX%2fhFcPs5sVClS%2bYz2HMxuEgrvL7P%2b9pDAX7K1EYktrRAd3THt4NRQjax4GPlmP5ZuGszIdHg%3d%3d)  
+**最新版本**：148.0.3921.0  
+**文件大小**：182.33 MB  
+**文件名**：MicrosoftEdge_X64_148.0.3921.0.exe  
+**校验值（Sha256）**：f5dc28101171c8a6600992df39c433aebe869546cc0a416828f1019192441cff  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bf721c7-512c-408a-be38-1dbdd618595c?P1=1774332346&P2=404&P3=2&P4=c3Ukj5KE39ogF%2bEmV6fnchnJrbQ9YIQGYoWHHzrKpo%2f1EoPg1ZMSv%2bJjXKAmjd6O4QD6AFiISCp8DlWkltVHRA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bf721c7-512c-408a-be38-1dbdd618595c?P1=1774332346&P2=404&P3=2&P4=c3Ukj5KE39ogF%2bEmV6fnchnJrbQ9YIQGYoWHHzrKpo%2f1EoPg1ZMSv%2bJjXKAmjd6O4QD6AFiISCp8DlWkltVHRA%3d%3d)  
 
 ## canary ARM64
 **最新版本**：148.0.3921.0  
